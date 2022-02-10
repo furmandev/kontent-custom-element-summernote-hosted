@@ -8,7 +8,7 @@ This is a [custom element](https://docs.kontent.ai/tutorials/develop-apps/integr
 ## Setup
 
 1. Follow the instructions in the [Kentico Kontent documentation](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrating-your-own-content-editing-features#a-3--displaying-a-custom-element-in-kentico-kontent) to add the element to a content model.
-    * The `Hosted code URL` is where https://html-kontent.furman.dev/
+    * The `Hosted code URL` is https://html-kontent.furman.dev/
     * No JSON parameters are necessary
 
 ## Deploying
